@@ -1,0 +1,19 @@
+﻿# API keys
+.env
+*.env
+
+# Generated videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
