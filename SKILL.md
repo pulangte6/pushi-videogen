@@ -1,5 +1,5 @@
-﻿---
-name: video-gen
+---
+name: pushi-videogen
 description: "Generate AI videos from text prompts, images, or keyframes using the Agnes-AI video generation API. Use when Codex needs to create videos from text descriptions, animate images into video clips, generate smooth transitions between multiple images (keyframe animation), create promotional video content, or convert text/image ideas into video format. Triggers on: video generation, text-to-video, image-to-video, keyframe animation, multi-image transition, AI video creation, prompt-to-video, video clip generation, animate image."
 ---
 
